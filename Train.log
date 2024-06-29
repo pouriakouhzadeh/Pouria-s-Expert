@@ -1,0 +1,15 @@
+2024-06-28 18:27:53,962 - INFO - Cycle number = 1
+2024-06-28 18:27:54,124 - INFO - 11 CSV files copied successfully
+2024-06-28 18:27:54,125 - ERROR - Cannot read parameters file for EURUSD60, added to list for training. Error: Parameters file not found for EURUSD60
+2024-06-28 18:27:54,125 - ERROR - Cannot read parameters file for AUDCAD60, added to list for training. Error: Parameters file not found for AUDCAD60
+2024-06-28 18:27:54,125 - ERROR - Cannot read parameters file for AUDCHF60, added to list for training. Error: Parameters file not found for AUDCHF60
+2024-06-28 18:27:54,125 - ERROR - Cannot read parameters file for AUDNZD60, added to list for training. Error: Parameters file not found for AUDNZD60
+2024-06-28 18:27:54,125 - ERROR - Cannot read parameters file for AUDUSD60, added to list for training. Error: Parameters file not found for AUDUSD60
+2024-06-28 18:27:54,125 - ERROR - Cannot read parameters file for EURAUD60, added to list for training. Error: Parameters file not found for EURAUD60
+2024-06-28 18:27:54,125 - ERROR - Cannot read parameters file for EURCHF60, added to list for training. Error: Parameters file not found for EURCHF60
+2024-06-28 18:27:54,125 - ERROR - Cannot read parameters file for EURGBP60, added to list for training. Error: Parameters file not found for EURGBP60
+2024-06-28 18:27:54,125 - ERROR - Cannot read parameters file for GBPUSD60, added to list for training. Error: Parameters file not found for GBPUSD60
+2024-06-28 18:27:54,125 - ERROR - Cannot read parameters file for USDCAD60, added to list for training. Error: Parameters file not found for USDCAD60
+2024-06-28 18:27:54,126 - ERROR - Cannot read parameters file for USDCHF60, added to list for training. Error: Parameters file not found for USDCHF60
+2024-06-28 18:27:54,126 - INFO - Currency list length: 11
+2024-06-28 18:27:54,126 - INFO - Concurrency level: 11
